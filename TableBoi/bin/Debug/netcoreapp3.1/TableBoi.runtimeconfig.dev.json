@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Saturn\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Saturn\\.nuget\\packages"
+    ]
+  }
+}
